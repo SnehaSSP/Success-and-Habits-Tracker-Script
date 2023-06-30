@@ -1,4 +1,4 @@
-# this is my first pytho script on git
+# this is my first python script on git
 import datetime
 
 
