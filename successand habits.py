@@ -1,4 +1,5 @@
 # this is my first python script on git
+# Using this script you can monitor your daily habits for success
 import datetime
 
 
