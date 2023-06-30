@@ -1,3 +1,4 @@
+# this is my first script on github
 import datetime
 
 
