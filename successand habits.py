@@ -1,8 +1,6 @@
 # this is my first python script on git
 # Using this script you can monitor your daily habits for success
 import datetime
-
-
 # Define a function for setting and tracking daily habits
 def set_daily_habits():
     print("Set your daily habits:")
